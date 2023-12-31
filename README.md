@@ -33,10 +33,6 @@ The dataset comprises annual survey results conducted by Stack Overflow, providi
 
 ## File Descriptions
 * `Project: Writing a Data Scientist Blog Post.ipynb`: Jupyter notebook containing the detailed data analysis.
-* `data/2019/`: Folder containing the Stack Overflow survey data for the year 2019.
-* `data/2020/`: Folder containing the Stack Overflow survey data for the year 2020.
-* `data/2021/`: Folder containing the Stack Overflow survey data for the year 2021.
-* `data/2022/`: Folder containing the Stack Overflow survey data for the year 2022.
 
 
 ## Results and Findings
