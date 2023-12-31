@@ -1,7 +1,5 @@
 # Project-Writing-a-Data-Scientist-Blog-Post
-Udacity Data Scientist Nanodegree Project.
-
-# Udacity Data Scientist Nanodegree Project: Stack Overflow Developer Survey Analysis
+Udacity Data Scientist Nanodegree Project: Stack Overflow Developer Survey Analysis
 
 ## Table of Contents
 1. [Installation](#installation)
