@@ -61,7 +61,7 @@ The dataset comprises annual survey results conducted by Stack Overflow, providi
 
 
 ## Results and Findings
-The results and key insights derived from the analysis can be found in the detailed post available here.
+The results and key insights derived from the analysis can be found in the detailed post available [here](https://medium.com/@turkiabalzahrani/unlocking-insights-a-journey-through-stack-overflow-developer-surveys-2019-2022-4b8a5657a178).
 
 ## Licensing and Acknowledgements
 Credit and appreciation to Stack Overflow for providing the dataset. Licensing details and additional information about the dataset can be found at the Stack Overflow [link](https://insights.stackoverflow.com/survey).
