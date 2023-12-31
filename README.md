@@ -15,26 +15,7 @@ This code runs on Python version 3.* and requires specific libraries. To install
 ```bash
 pip install -r requirements.txt
 ```
-Additionally, download Stack Overflow's 2019 to 2022 Annual Developer Survey data. You can find the data to download here.
-
-Move the downloaded files to the specific folders using the following commands:
-
-Stack Overflow’s 2019 data:
-```bash
-mv survey_results_public.csv data/2019/survey_results_public.csv
-```
-Stack Overflow’s 2020 data:
-```bash
-mv survey_results_public.csv data/2020/survey_results_public.csv
-```
-Stack Overflow’s 2021 data:
-```bash
-mv survey_results_public.csv data/2021/survey_results_public.csv
-```
-Stack Overflow’s 2022 data:
-```bash
-mv survey_results_public.csv data/2022/survey_results_public.csv
-```
+Additionally, download Stack Overflow's 2019 to 2022 Annual Developer Survey data. You can find the data to download [here](https://insights.stackoverflow.com/survey).
 
 
 ## Project Overview
